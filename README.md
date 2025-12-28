@@ -10,5 +10,5 @@ Methods Included:
 - Cramer’s Rule
 - Matrix Multiplication
 
-#Project Structure
-- nummethods/BisectionMethod.java: Implements the Bisection numerical method
+# Project Structure
+- (nummethods/BisectionMethod.java): Implements the Bisection numerical method
