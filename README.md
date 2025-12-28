@@ -11,4 +11,5 @@ Methods Included:
 - Matrix Multiplication
 
 # Project Structure
-- (nummethods/BisectionMethod.java): Implements the Bisection numerical method
+- **nummethods/BisectionMethod.java** – Implements the Bisection numerical method
+
